@@ -1,3 +1,4 @@
 {
-    "version": "1.0.24"
+    "app" : "ts_restapi",
+    "version": "1.0.25"
 }
